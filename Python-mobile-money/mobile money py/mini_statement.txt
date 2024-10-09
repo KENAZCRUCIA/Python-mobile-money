@@ -1,0 +1,2 @@
+{'you have deposited amount': 10000, 'agent name': 'Elianto', 'date': '09 Wednesday October 2024 12:09:05', 'balance': 10000}
+{'you have send amount': 5000, 'recipient name': 'Brian Njeru', 'recipient number': 717677103, 'date': '09 Wednesday October 2024 12:11:52', 'charge': 57, 'balance': 4943.0}
